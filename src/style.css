@@ -2,7 +2,9 @@
 
 :root{
     --soft-red: hsl(10, 79%, 65%);
+    --very-soft-red: hsla(10, 79%, 65%, 0.7);
     --cyan: hsl(186, 34%, 60%);
+    --soft-cyan: hsla(186, 34%, 60%, 0.7);
 
     --dark-brown: hsl(25, 47%, 15%);
     --medium-brown: hsl(28, 10%, 53%);
@@ -20,13 +22,15 @@ body {
     background-color: var(--cream);
 }
 
-main{
+main {
     width: 90%;
-    max-width: 300px;
-    
+    max-width: 384px;
 }
 
 footer {
     position: fixed;
     bottom: 1vh;
+    text-align: center;
+    white-space: nowrap;
+    font-size: 0.8rem;
 }

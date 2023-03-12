@@ -1,6 +1,6 @@
 # Frontend Mentor - Expenses chart component - Finished by Huy Phan
 
-![Design preview for the Expenses chart component coding challenge](./design/desktop-preview.jpg)
+![Design preview for the Expenses chart component coding challenge](./public/desktop-preview.jpg)
 
 ## Welcome! 👋
 
